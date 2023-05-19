@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">OrderApp</string>
+    <string name="select_your_order">Select Your Order.</string>
+    <string name="vadapav">Vadapav</string>
+    <string name="frankie">Frankie</string>
+    <string name="select_the_ingredients">Select the ingredients:</string>
+    <string name="oil">Oil</string>
+    <string name="oil_chesse"><![CDATA[oil & Chesse]]></string>
+    <string name="butter">Butter</string>
+    <string name="Cheese">Cheese</string>
+    <string name="done">Done</string>
+    <string name="hello_world">Hello World</string>
+    <string name="pic">Pic</string>
+</resources>
