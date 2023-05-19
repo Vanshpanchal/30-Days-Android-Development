@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Day4</string>
+    <string name="upload">Upload</string>
+    <string name="download">Download</string>
+</resources>
