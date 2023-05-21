@@ -297,7 +297,7 @@
                 android:background="@drawable/circle"
                 android:onClick="onClr"
                 android:text="@string/clr"
-                android:textSize="26sp" />
+                android:textSize="20sp" />
 
             <Button
                 android:id="@+id/btn0"

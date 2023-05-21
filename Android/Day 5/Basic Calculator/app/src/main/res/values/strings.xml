@@ -22,4 +22,6 @@
     <string name="decimal">.</string>
     <string name="result">=</string>
     <string name="clr">CLR</string>
+    <string name="_78">78</string>
+    <string name="Hello">🚫</string>
 </resources>
