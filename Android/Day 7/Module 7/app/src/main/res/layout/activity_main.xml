@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:overScrollMode="always"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/kotlin"
+            android:layout_width="wrap_content"
+            android:layout_height="180dp"
+            android:layout_gravity="center"
+            android:paddingHorizontal="50dp"
+            android:layout_marginTop="25dp"
+            android:src="@drawable/klogo1" />
+
+        <TextView
+            android:id="@+id/tv_kotlin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15sp"
+            android:paddingHorizontal="5sp"
+            android:text="@string/kotlin"
+            android:textAlignment="center"
+            android:textSize="18sp"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="234dp" />
+
+        <ImageView
+            android:id="@+id/swift"
+            android:layout_width="match_parent"
+            android:paddingHorizontal="50dp"
+            android:layout_height="180dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="25dp"
+            android:src="@drawable/swiftlogo" />
+
+        <TextView
+            android:id="@+id/tv_swift"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15sp"
+            android:paddingHorizontal="5sp"
+            android:text="@string/swift"
+            android:textAlignment="center"
+            android:textSize="18sp"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="234dp" />
+
+        <ImageView
+            android:id="@+id/flutter"
+            android:layout_width="wrap_content"
+            android:layout_height="180dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="25dp"
+            android:src="@drawable/dlogo" />
+
+        <TextView
+            android:id="@+id/tv_flutter"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15sp"
+            android:layout_marginBottom="15sp"
+            android:paddingHorizontal="5sp"
+            android:text="@string/flutter"
+            android:textAlignment="center"
+            android:textSize="18sp"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="234dp" />
+
+    </LinearLayout>
+</ScrollView>
