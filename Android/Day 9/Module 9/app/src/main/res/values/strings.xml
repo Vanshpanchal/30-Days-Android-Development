@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Day 9</string>
+    <string name="name1">The</string>
+    <string name="name2">Knowledge Hub</string>
+    <string name="btnstart">START</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="welcome">Welcome</string>
+    <string name="android_development">Android Development</string>
+    <string name="languages">Languages</string>
+    <string name="Adocs">Android development refers to the process of creating applications specifically designed to run on Android devices. Android, developed by Google, is the most widely used mobile operating system globally, powering millions of smartphones, tablets, smart TVs, and other devices. Android development offers developers a platform to build innovative and feature-rich apps that cater to a diverse range of user needs.</string>
+    <string name="a_lang"><![CDATA[JAVA & KOTLIN]]></string>
+    <string name="frameworks">Frameworks</string>
+    <string name="a_frame"><![CDATA[Android Jetpack, Flutter & React Native]]></string>
+    <string name="documentation">Documentation</string>
+    <string name="wdocs">Web development refers to the process of creating and maintaining websites and web applications. It involves various technologies, languages, and frameworks to build functional, visually appealing, and interactive online experiences. Web developers utilize their skills to design, develop, and deploy websites that can be accessed through web browsers on different devices.</string>
+    <string name="weblang">HTML, CSS, JAVASCRIPT</string>
+    <string name="web_frame">REACT.JS, ANGULAR, VUE.JS etc</string>
+    <string name="web_development">Web Development</string>
+    <string name="ios_development">iOS Development</string>
+    <string name="ios_lang"><![CDATA[SWIFT & OBJECTIVE-C]]></string>
+    <string name="ios_docs">iOS development refers to the process of creating applications specifically designed to run on Apple\'s iOS platform, which powers iPhones, iPads, iPod Touch devices, and Apple Watches. iOS development allows developers to create a wide range of applications, including games, productivity tools, social media apps, e-commerce platforms, and more.</string>
+    <string name="ios_frame">UI KIT, SWIFT UI, MAPKIT, CORE DATA STACK</string>
+    <string name="block_chain_development">BlockChain</string>
+    <string name="b_docs">Blockchain development involves creating decentralized applications (DApps) and platforms using blockchain technology. A blockchain is a distributed ledger that records transactions or information across multiple computers, ensuring transparency and immutability. Developers design and implement smart contracts, develop consensus mechanisms, and build DApps on blockchain networks. It offers secure, transparent, and decentralized solutions for various industries.</string>
+    <string name="b_lang">SOLIDITY, GO, RUST, VYPER</string>
+    <string name="b_frame">ETHEREUM, CORDA, QUORUM</string>
+    <string name="cyber_security">Cyber Security</string>
+    <string name="c_docs">Cybersecurity refers to the practice of protecting computer systems, networks, and data from unauthorized access, use, disclosure, disruption, modification, or destruction. It involves implementing a combination of measures, technologies, processes, and best practices to safeguard digital assets and ensure the confidentiality, integrity, and availability of information.</string>
+    <string name="c_lang">PYTHON, POWERSHELL</string>
+    <string name="c_frame">COBIT, OWASP, NIST</string>
+    <string name="ai">Artifical Intelligence</string>
+    <string name="a_docs">Artificial Intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to perform tasks that typically require human intelligence. It is a multidisciplinary field of computer science that combines techniques such as machine learning, natural language processing, computer vision, and robotics to enable machines to learn from data, adapt to new information, and perform cognitive tasks.</string>
+    <string name="ai_lang">PYTHON, R, JAVA, MATLAB</string>
+    <string name="ai_frame">TENSORFLOW, PYTORCH, THEANO</string>
+
+</resources>
