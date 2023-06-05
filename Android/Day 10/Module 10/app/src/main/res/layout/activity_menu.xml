@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg"
+    tools:context=".menu">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:fontFamily="serif"
+        android:text="@string/menu"
+        android:textAlignment="center"
+        android:textAllCaps="true"
+        android:textColor="@color/five"
+        android:textSize="45sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="64dp"
+        android:fontFamily="serif"
+        android:text="@string/coffee"
+        android:textAlignment="center"
+        android:textColor="@color/five"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView2" />
+
+    <Spinner
+        android:id="@+id/spin"
+        android:layout_width="match_parent"
+        android:layout_height="35sp"
+        android:layout_marginHorizontal="35sp"
+        android:layout_marginTop="25dp"
+        android:background="@drawable/spinner"
+        android:entries="@array/coffeenames"
+        android:gravity="center"
+        android:popupBackground="@color/three"
+        android:spinnerMode="dropdown"
+        android:textAlignment="center"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView3" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="65dp"
+        android:fontFamily="serif"
+        android:text="@string/snacks"
+        android:textAlignment="center"
+        android:textColor="@color/five"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        app:layout_constraintTop_toBottomOf="@+id/spin" />
+
+    <Spinner
+        android:id="@+id/spin2"
+        android:layout_width="match_parent"
+        android:layout_height="35sp"
+        android:layout_marginHorizontal="35sp"
+        android:layout_marginTop="25dp"
+        android:background="@drawable/spinner"
+        android:entries="@array/snacknames"
+        android:gravity="center"
+        android:popupBackground="@color/three"
+        android:spinnerMode="dropdown"
+        android:textAlignment="center"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView4" />
+
+    <Button
+        android:id="@+id/submit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="35sp"
+        android:layout_marginTop="50dp"
+        android:backgroundTint="@color/five"
+        android:text="place order"
+        android:textAllCaps="true"
+        android:textColor="@color/two"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:cornerRadius="5sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/spin2" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

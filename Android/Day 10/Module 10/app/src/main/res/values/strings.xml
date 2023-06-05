@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Day10</string>
+    <string name="name1">Welcome to </string>
+    <string name="name2">The Brew Spot</string>
+    <string name="let_s_go">Let\'s Go</string>
+    <string name="menu">Menu</string>
+    <string name="coffee">☕Coffee☕</string>
+    <string name="snacks">🍟Snacks🍟</string>
+    <string name="helldsdnsnd">helldsdnsnd</string>
+    <string name="Koffee">Coffee</string>
+    <string name="snackss">Snacks</string>
+    <string-array name="coffeenames">
+        <item>Espresso</item>
+        <item>Latte</item>
+        <item>Grace</item>
+        <item>Mocha</item>
+        <item>Americano</item>
+    </string-array>
+
+    <string-array name="snacknames">
+        <item>Sandwich</item>
+        <item>French Fires</item>
+        <item>Pancakes</item>
+        <item>Burger</item>
+    </string-array>
+</resources>
