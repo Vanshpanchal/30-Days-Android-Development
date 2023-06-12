@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Day 11</string>
+    <string name="welcome">Welcome</string>
+    <string name="let_s_get_started">Let\'s get started</string>
+    <string name="existing_user_get_started">Existing User / Get started</string>
+    <string name="E">Enter Your Email</string>
+    <string name="P">Enter Your Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="new_user_create_new_account">New user? Create new account</string>
+    <string name="logo">logo</string>
+    <string name="back">Back</string>
+    <string name="please_log_into_your_account">Please log into your account</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="zzz">sdfsnsdkfdffkdsf</string>
+    <string name="sign_up">Sign up</string>
+    <string name="please_create_a_new_account">Please create a new account</string>
+    <string name="username">Username</string>
+
+</resources>
