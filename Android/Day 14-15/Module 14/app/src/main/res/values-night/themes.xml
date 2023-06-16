@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Day11" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <item name="colorPrimary">@color/b</item>
+    </style>
+
+    <style name="one" parent="ShapeAppearanceOverlay.Material3.FloatingActionButton">
+
+        <item name="srcCompat">@drawable/baseline_logout_24</item>
+        <item name="backgroundTint">@color/black</item>
+    </style>
+
+<!--    <style name="FloatinActionButtonStyle" parent="Widget.Design.FloatingActionButton">-->
+
+<!--        <item name="shapeAppearanceOverlay">@style/Fab</item>-->
+<!--    </style>-->
+<!--    <style name="Fab" parent="ShapeAppearance.Material3.SmallComponent">-->
+<!--        <item name="cornerSize">50%</item>-->
+<!--        <item name="cornerFamily">rounded</item>-->
+<!--    </style>-->
+
+
+</resources>
