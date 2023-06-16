@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Quiz Buzz</string>
+    <string name="welcome_to_quiz_buzz">Welcome to Quiz-Buzz</string>
+    <string name="check_your_iq_level">Check Your IQ level 📊</string>
+    <string name="lets_start">Lets Start</string>
+    <string name="question_1">Question 1</string>
+    <string name="answer_the_following_question">Answer the Following Question</string>
+    <string name="_1_1">3/0</string>
+    <string name="question_2">question 2</string>
+    <string name="result">Result</string>
+    <string name="total_submitted">Total submitted</string>
+</resources>
