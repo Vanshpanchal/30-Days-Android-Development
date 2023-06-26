@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Day23</string>
+    <string name="customised_list_view">Customised List View</string>
+    <string name="person_1">Person 1</string>
+    <string name="hello">hello</string>
+    <string name="profile">Profile</string>
+    <string name="name">Name:</string>
+    <string name="phone">Phone:</string>
+    <string name="call">CALL 📞</string>
+</resources>
