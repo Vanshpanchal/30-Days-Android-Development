@@ -11,6 +11,3 @@
 - [Day 14-15 -> Upgrades to Day 11-13](https://github.com/Vanshpanchal/30-Days-Android-Devlopment/tree/28b5bfc6164c867fe4e43de538f8bd8daa2f112a/Android/Day%2014-15)
 - [Day 16-17 -> Quiz App](https://github.com/Vanshpanchal/30-Days-Android-Devlopment/tree/28b5bfc6164c867fe4e43de538f8bd8daa2f112a/Android/Day%2016-17)
 - [Day 18-20 -> ArchiveLink](https://github.com/Vanshpanchal/LinkArchive)
-- [Day 21 -> Photo Slides](https://github.com/Vanshpanchal/30-Days-Android-Devlopment/tree/a11fb8f7d67d989c49c0d9c85bef5271704848e0/Android/Day%2021)
-- [Day 22 Part 1 -> List View](https://github.com/Vanshpanchal/30-Days-Android-Devlopment/tree/ac9edd1a63190a26c11d0beaedb47fe8726babe0/Android/Day%2022%20part1)
-- [Day 22 Part 2 -> Customised List View](https://github.com/Vanshpanchal/30-Days-Android-Devlopment/tree/32b1ec48bbae159f0b0bd110e4057af64c468bc5/Android/Day%2022%20part2)
