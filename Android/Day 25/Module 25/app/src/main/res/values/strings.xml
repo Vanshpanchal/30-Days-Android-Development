@@ -1,0 +1,155 @@
+<resources>
+    <string name="app_name">Day 25</string>
+    <string name="news_panel">News Panel</string>
+    <string name="indictment_to_steal_samsung_secrets_for_foxconn_china_project">Indictment details plan to steal Samsung secrets for Foxconn China project</string>
+    <string name="_12_12_am">12:12 AM</string>
+
+    <string name="content1">
+    \tJune 26 (Reuters)  A Tesla  vehicle that was operating on its Autopilot software crashed into a stationary truck on a highway in Pennsylvania on Friday night, police said, adding to scrutiny of the automakers driver assistance system.
+
+\n
+        \n
+    \t    The Tesla was traveling in the middle lane when it struck the rear end of a Freightliner semitruck that was parked in the same lane and providing traffic control for a right lane closure, the Pennsylvania State Police said on Monday.
+\n
+        \n
+    \t The police said the car lost control due to being on Autopilot, adding that the 18-year-old male driver was charged with "careless driving."
+
+    No injuries were reported, according to police.
+
+   \n
+        \n
+    \t Tesla, which does not have a public relations department, did not respond to a request for comment.
+
+    U.S. regulators have been investigating a series of accidents where Tesla vehicles on Autopilot collided with parked emergency vehicles.
+
+   \n
+        \n
+    \t In February, a Tesla Model S crashed into a stationary fire truck in Walnut Creek, California, killing the car\'s driver and triggering an investigation by the National Highway Traffic Safety Administration.
+\n
+        \n
+        \tTesla says Autopilot enables a car to steer, accelerate and brake automatically within its lane, but those features require active driver supervision and do not make the vehicle autonomous.
+</string>
+
+    <string name="content0">\tSnowflake Chairman and CEO Frank Slootman presents a snowboard as a gift to NVIDIA CEO Jensen Huang at Snowflake Summit 2023, in Las Vegas, Nevada, U.S. June 26, 2023. Courtesy of Snowflake/Handout via REUTERS
+
+\n
+        \n
+        \tOAKLAND, California, June 26 (Reuters) - Snowflake (SNOW.N) a cloud data analytics company, is partnering with computing company Nvidia (NVDA.O) to allow customers ranging from financial institutions to healthcare and retail to build AI models using their own data.
+
+\n
+        \n
+        \tThe two companies announced the partnership at Snowflake Summit 2023 on Monday.
+
+\n
+        \n
+        \t"In the old days, in small data computing, you moved data to the computer," Nvidia Chief Executive Jensen Huang told Reuters. "But when you have giant amounts of data like Snowflake does, and the pile of proprietary data … data that\'s so valuable to a company, then you move the compute to the data."
+
+\n
+        \n
+        \tIn this case, Nvidia is taking a "fairly engineering intensive" move of embedding its NeMo platform for training and running generative AI models into the Snowflake Data Cloud, said Huang.
+
+\n
+        \n
+        \tThe partnership comes as chatbot ChatGPT has pushed many companies to find their AI strategies and has propelled Nvidia, which provides the main hardware for AI, to becoming a trillion dollar company.
+
+\n
+        \n
+        \t"This is significant. This is the last mile that we\'ve been waiting for 40 years," said Frank Slootman, Chairman and CEO of Snowflake. "Every industry is on this. They used to say software is eating the world. Well, now data is eating software," he said about the importance of data today.
+
+\n
+        \n
+        \tSlootman said companies that use Snowflake to manage their data will be able to now use their own data to train new AI models to gain an advantage in business without risking losing control of it.
+
+\n
+        \n
+        \tNo financial details of the partnership were disclosed, but Huang said Nvidia would benefit as more customers use computing for AI work.</string>
+
+
+    <string name="content2">
+    \tLOS ANGELES — More than a decade after Apple disrupted the music industry and Amazon upended retail, the tech heavyweights have set their sights on a new arena ripe for change: live sports.
+
+    \n
+        \n
+    \tEmboldened by their deep pockets and eager to boost viewership of their streaming-subscription services, Apple and Amazon have thrust themselves into negotiations for media rights held by the National Football League, Major League Baseball, Formula One racing and college conferences.
+
+    \n
+        \n
+    \tThey are competing to replace DirecTV for the rights to N.F.L. Sunday Ticket, a package the league wants to sell for more than $2.5 billion annually, about $1 billion more than it currently costs, according to five people familiar with the process. Eager not to miss out, Google has also offered a bid from YouTube for the rights beginning in 2023, two people familiar with the offer said.
+
+    \n
+        \n
+    \tThe tech companies’ interest is a thrill for sports leagues and a terror for media companies that fear competition from rivals that collect tens of billions of dollars from dominant positions in other businesses. Last year, sports accounted for 95 of the 100 most viewed programs on television.
+    </string>
+
+        <string name="content3">
+    \tJune 23 (Reuters) - Bitcoin , the world\'s largest cryptocurrency, hit a more than one-year high on Friday, capping a week of gains helped in part by BlackRock\'s (BLK.N) plans to create a bitcoin exchange-traded fund (ETF) despite heightened U.S. regulatory scrutiny on the digital asset sector.
+
+   \n
+        \n
+    \t BlackRock, the world\'s biggest asset manager, filed last week to launch iShares Bitcoin Trust, an ETF that would have Coinbase Custody as its custodian as well as offer institutional investors exposure to the cyptocurrency.
+
+    \n
+        \n
+    \tCrypto exchange EDX Markets, backed by investment firms Charles Schwab, Fidelity and Citadel Securities, also announced earlier this week that it will allow trading on some cryptocurrencies.
+
+    \n
+        \n
+    \tThe moves have revived investor interest in cyptocurrencies, which have been in the doldrums after a series of crypto company meltdowns including the sudden collapse of exchange FTX late last year.
+
+   \n
+        \n
+    \t Compounding negative sentiment has been increased regulatory scrutiny, including the U.S. Securities and Exchange Commission\'s move this month to sue crypto giants Coinbase Global (COIN.O) and Binance, alleging violation of its rules. The pair deny the allegations.
+
+    \n
+        \n
+    \tBitcoin has gained nearly 25% in value since BlackRock\'s filing. It rose as high as $31,458 on Friday, the highest level since June 7, 2022, and was last up 3.29% at $30,872.
+
+    \n
+        \n
+    \t"The dark clouds overshadowing crypto have lifted in recent days amid a burst of institutional interest," said Kate Laurence, general partner of Bloccelerate VC, which invests in crypto projects.</string>
+
+        <string name="content4">
+    \tJune 26 (Reuters) - Meta Platforms (META.O) on Monday launched Meta Quest+, a subscription-based service for its virtual reality (VR) headsets to shape a nascent but high-investment market.
+
+   \n
+        \n
+    \t Chief Executive Mark Zuckerberg, in a broadcast channel on social media app Instagram, said the Meta Quest+ subscription will be available from Monday at $7.99 per month, or $59.99 annually, for its Quest 2, Pro and soon for Quest 3.
+
+    \n
+        \n
+    \tApple (AAPL.O) has entered the market dominated by Meta, showcasing its $3,499 augmented reality headset called the Vision Pro. Still, Apple\'s headset is three times the cost of the priciest headset from Meta.
+
+    \n
+        \n
+    \tMeta in March had cut the prices of its headsets as its bold bets on the metaverse failed to make a big splash.</string>
+
+    <string name="content5">
+    \tSEOUL, June 27 (Reuters) - When former Samsung executive Choi Jinseog won a contract with Taiwan\'s Foxconn in 2018, he tapped his former employer\'s supplier network to steal secrets to help his new client set up a chip factory in China, an indictment by South Korean prosecutors alleges.—>
+
+   \n
+    \n
+    \t Prosecutors announced the indictment on June 12, saying the theft caused more than $200 million in damages to Samsung Electronics (005930.KS), based on the estimated costs Samsung spent to develop the stolen data. The announcement did not name Choi and gave only limited details, although some media subsequently identified Choi and his links with Foxconn.
+
+    \n
+    \n
+    \tThe unreleased 18-page indictment, reviewed by Reuters, provides details in the case against Choi, including how he is alleged to have stolen Samsung\'s trade secrets and details about the planned Foxconn plant.
+
+    \n
+    \n
+    \tChoi, who has been detained in jail since late May, denied all the charges through his lawyer, Kim Pilsung.
+
+    \n
+    \n
+    \tChoi\'s Singapore-based consultancy Jin Semiconductor won the contract with Foxconn around August 2018, according to the indictment.
+
+    \n
+    \n
+    \tWithin months, Choi had poached a large number" of employees from Samsung and its affiliates and illegally obtained secret information related to building a chip factory from two contractors, prosecutors allege.
+
+    \tJin Semiconductor illegally used confidential information involving semiconductor cleanroom management obtained from Cho Young-sik who worked at one of the contractors, Samoo Architects &amp; Engineers, the indictment alleges.
+
+    \tClean rooms are manufacturing facilities where the enclosed environment is engineered to remove dust and other particles that can damage highly sensitive chips. Samoo had participated in the 2012 construction of Samsung\'s chip plant in Xian, China.
+
+    \tProsecutors allege Choi\'s company also illegally obtained blueprints of Samsung\'s China plant from Chung Chan-yup, an employee at HanmiGlobal, which supervised its construction and floor layouts of wastewater treatment and other subsidiary facilities involving the chip manufacturing process. They have yet to establish how the information on floor layout was obtained, according to the indictment.</string>
+
+</resources>
