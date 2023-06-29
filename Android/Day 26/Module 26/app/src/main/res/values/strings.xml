@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Day 26</string>
+    <string name="title">title</string>
+    <string name="rating">rating</string>
+    <string name="description">description</string>
+    <string name="list_of_products">List of products</string>
+    <string name="sort">Sort</string>
+    <string name="price">Price</string>
+    <string name="clear">clear</string>
+</resources>

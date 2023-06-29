@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bg">#E5E5CB</color>
+    <color name="brown2">#3C2A21</color>
+    <color name="brown">#1A120B</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="card">#394867</color>
+    <color name="blck">#03001C</color>
+    <color name="heading">#212A3E</color>
+    <color name="price">#8EAC50</color>
+    <color name="txt">#D5CEA3</color>
+    <color name="main">#579BB1</color>
+    <color name="rating">#E8AA42</color>
+</resources>

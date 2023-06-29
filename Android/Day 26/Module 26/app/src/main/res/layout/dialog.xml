@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    android:id="@+id/bottomsheet"
+
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/brown2">
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:text="Sort the list"
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textColor="@color/txt"
+            android:textSize="20sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+
+        <RadioGroup
+            android:id="@+id/radioGroup"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="12sp"
+            app:layout_constraintTop_toBottomOf="@+id/textView2">
+
+            <RadioButton
+                android:id="@+id/pricemax"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:buttonTint="@color/txt"
+                android:drawableEnd="@drawable/max"
+                android:drawableTint="@color/txt"
+                android:text="Pricing"
+                android:textColor="@color/txt" />
+
+            <RadioButton
+                android:id="@+id/pricemin"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:buttonTint="@color/txt"
+                android:drawableEnd="@drawable/min"
+                android:drawableTint="@color/txt"
+                android:text="Pricing"
+                android:textColor="@color/txt" />
+
+            <RadioButton
+                android:id="@+id/ratingmin"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:buttonTint="@color/txt"
+                android:drawableEnd="@drawable/min"
+                android:drawableTint="@color/txt"
+                android:text="Rating "
+                android:textColor="@color/txt" />
+
+            <RadioButton
+                android:id="@+id/ratingmax"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:buttonTint="@color/txt"
+                android:drawableEnd="@drawable/max"
+                android:drawableTint="@color/txt"
+                android:text="Pricing "
+                android:textColor="@color/txt" />
+        </RadioGroup>
+
+        <Button
+            android:id="@+id/clear"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/txt"
+            android:text="@string/clear"
+            android:textAllCaps="true"
+            android:textColor="@color/brown2"
+            android:textStyle="bold"
+            app:cornerRadius="8sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/radioGroup" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</LinearLayout>
