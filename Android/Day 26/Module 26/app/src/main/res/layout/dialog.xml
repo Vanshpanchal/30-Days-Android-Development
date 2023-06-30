@@ -72,7 +72,7 @@
                 android:buttonTint="@color/txt"
                 android:drawableEnd="@drawable/max"
                 android:drawableTint="@color/txt"
-                android:text="Pricing "
+                android:text="Rating "
                 android:textColor="@color/txt" />
         </RadioGroup>
 
