@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Day27part2" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/black</item>
+    </style>
+
+    <style name="Theme.Day27part2" parent="Base.Theme.Day27part2" />
+
+    <style name="shapeApperance" parent="ShapeAppearance.Material3.NavigationBarView.ActiveIndicator">
+        <item name="cornerSize">12sp</item>
+    </style>
+
+    <style name="App.Custom.Indicator" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
+        <item name="android:color">#00FFCA28</item>
+        <item name="shapeAppearance">@style/shapeApperance</item>
+        <item name="android:radius">12sp</item>
+    </style>
+</resources>
