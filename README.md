@@ -1,4 +1,4 @@
-# 30-Days-Android-Devlopment
+# 30-Days-Android-Development
 - [Day 1-3   -> Learn the fundamental concept of Kotlin Programming Languages](https://github.com/Vanshpanchal/30-Days-Android-Devlopment/blob/2538a99399483f5ccd73bb384e35d5e9ffd211ba/Android/Kotlin%20Notes%20for%20Professionals%20-%20KotlinNotesForProfessionals.pdf)
 - [Day 4     -> Basic Order App](https://github.com/Vanshpanchal/30-Days-Android-Devlopment/tree/28b5bfc6164c867fe4e43de538f8bd8daa2f112a/Android/Day%204)
 - [Day 5     -> Basic Calculator](https://github.com/Vanshpanchal/30-Days-Android-Devlopment/tree/28b5bfc6164c867fe4e43de538f8bd8daa2f112a/Android/Day%205)
