@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item
+        android:id="@+id/main_item"
+        android:title="@string/gmail">
+        <menu>
+            <item
+                android:id="@+id/inbox"
+                android:checkable="true"
+                android:icon="@drawable/baseline_inbox_24"
+                android:title="@string/inbox"
+                android:enabled="true"
+                app:showAsAction="ifRoom" />
+            <item
+                android:id="@+id/outbox"
+                android:checkable="true"
+                android:icon="@drawable/baseline_outbox_24"
+                android:title="@string/outbox"
+                app:showAsAction="ifRoom" />
+            <item
+                android:id="@+id/fav"
+                android:checkable="true"
+                android:icon="@drawable/baseline_favorite_border_24"
+                android:title="@string/favorites"
+                app:showAsAction="ifRoom" />
+            <item
+                android:id="@+id/trash"
+                android:checkable="true"
+                android:icon="@drawable/baseline_restore_from_trash_24"
+                android:title="@string/trash"
+                app:showAsAction="ifRoom" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/labels_item"
+        android:title="@string/personal_folders">
+        <menu>
+            <item
+                android:id="@+id/label_one"
+                android:checkable="true"
+                android:icon="@drawable/baseline_folder_open_24"
+                android:title="@string/family"
+
+                app:showAsAction="ifRoom" />
+            <item
+                android:id="@+id/label_two"
+                android:checkable="true"
+                android:icon="@drawable/baseline_folder_open_24"
+                android:title="@string/wedding"
+                app:showAsAction="ifRoom" />
+        </menu>
+    </item>
+</menu>
