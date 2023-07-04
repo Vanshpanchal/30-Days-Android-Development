@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Day30</string>
+    <string name="music_player">Music Player</string>
+    <string name="img">img</string>
+    <string name="see_you_again">Song : See You Again</string>
+    <string name="fast_furious_7">Movie : <![CDATA[Fast & Furious 7]]></string>
+    <string name="pause">pause</string>
+    <string name="restart">restart</string>
+    <string name="start">start</string>
+    <string name="play">Play</string>
+    <string name="reset">reset</string>
+</resources>
