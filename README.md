@@ -62,7 +62,7 @@ This 30-day Android development project was an intensive learning experience, al
 
 
 # Outline of each day in my 30-Days-Android-Development Journey
-- [Day 1-3   -> Learn the fundamental concept of Kotlin Programming Languages](https://github.com/Vanshpanchal/30-Days-Android-Devlopment/blob/2538a99399483f5ccd73bb384e35d5e9ffd211ba/Android/Kotlin%20Notes%20for%20Professionals%20-%20KotlinNotesForProfessionals.pdf)
+- [Day 1-3   -> Learn the fundamental concept of Kotlin Programming Languages](https://github.com/Vanshpanchal/30-Days-Android-Development/tree/78cbe7ebeedcfacef2df73185eff6488b5d809a9/Android/Docs)
 - [Day 4     -> Basic Order App](https://github.com/Vanshpanchal/30-Days-Android-Devlopment/tree/28b5bfc6164c867fe4e43de538f8bd8daa2f112a/Android/Day%204)
 - [Day 5     -> Basic Calculator](https://github.com/Vanshpanchal/30-Days-Android-Devlopment/tree/28b5bfc6164c867fe4e43de538f8bd8daa2f112a/Android/Day%205)
 - [Day 6     -> ScrollView , Implict & Explicit Intent](https://github.com/Vanshpanchal/30-Days-Android-Devlopment/tree/28b5bfc6164c867fe4e43de538f8bd8daa2f112a/Android/Day%206)
