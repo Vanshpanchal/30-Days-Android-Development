@@ -1,5 +1,8 @@
 # 30-Day Android Development in Kotlin
 
+![android](https://github.com/Vanshpanchal/30-Days-Android-Development/assets/83567205/0268ab86-7d77-4c97-be59-50d269f3a05e)
+
+
 This repository contains the code and documentation for my 30-day Android development journey in Kotlin. Over the course of 30 days, I dedicated myself to learning and practicing Android app development using the Kotlin programming language.
 
 ## Goals
